@@ -1,0 +1,39 @@
+@media only screen and (max-width: 768px) and (min-width: 588px){
+    .forthe{
+        width: 112% !important;
+    }
+    .fifth{
+        width: 80% !important;
+    }
+    .someon{
+        position: relative !important;
+        left: 55px !important;
+    }
+    .skyscrap{
+        position: relative !important;
+        left: 15px !important;
+    }
+    .junkq{
+        position: relative !important;
+        left: 15px !important;
+    }
+    .netdat{
+        position: relative !important;
+        left: 50px !important;
+    }
+    .amaze{
+        position: relative !important;
+        left: 50px !important;
+    }
+    .proto{
+        position: relative !important;
+        left: 45px !important;
+    }
+    .strips{
+        position: relative !important;
+         left: 205px !important;
+    }
+}
+@media only screen and (max-width: 600px) {
+
+}
